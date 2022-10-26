@@ -1,0 +1,95 @@
+---
+title: "Carpentry Workshop Wrap-Up"
+format: 
+  revealjs:
+    theme: solarized
+    progress: true
+    center-title-slide: true
+    center: true
+    logo: https://github.com/SmithsonianWorkshops/workshop-slides/raw/main/images/si_carpentries.png
+editor: visual
+---
+
+## Thank You!
+
+Thank you all for your hard work!
+
+Big thanks to our instructors, helpers, and workshop organizer!
+
+## Workshop Recap
+
+**Week 1**
+
+* Using the GitHub website and Desktop to version control own data, and suggest changes to others.
+* Using OpenRefine to clean data in a scalable and reproducible way.
+
+## Workshop Recap
+
+**Week 2**
+
+* R Recap
+
+## Where to go from here?
+
+> Success is the sum of small efforts, repeated day in and day out. -- Robert Collier
+
+Practice ideas:
+
+- Your own work at the Smithsonian!
+- Weekly TidyTuesday Datasets: https://github.com/rfordatascience/tidytuesday
+- *Add some additional R Resources*
+
+## Smithsonian Carpentries Website
+
+https://datascience.si.edu/carpentries
+
+![](https://i.imgur.com/5bOXDap.jpeg){.border .border-thick}
+
+## SI Carpentries Email Account
+
+For data and/or Carpentries-related questions: **Carpentries@si.edu**
+
+Feel free to email any of the instructors or helpers directly.
+
+## CarpentriesAnnounce Mailing List
+
+For announcements of upcoming SI Carpentries workshops and events: https://si-listserv.si.edu/cgibin/wa?SUBED1=CARPENTRIESANNOUNCE&A=1
+
+Sign-up link is also available on the SI Carpentries Website.
+
+## #CarpentriesAlumni SlackChannel
+
+1. Go to https://smithsonian.slack.com/signup, and enter your SI email account (must be @si.edu).
+2. Log in, and add the #carpentries-alumni channel.
+
+## Carpentries Alumni Microsoft Team
+
+You can access the “Carpentries Alumni” Microsoft Team with this direct link. The “Carpentries Alumni” team is set as a public team, so you should be able to access it via the Teams button on the left sidebar.
+
+## SI Carpentries Community Chat
+
+Monthly lunchtime gatherings to discuss topics relating to Smithsonian Data or Software or Library Carpentry workshop content.
+
+Last Wednesday of every month from 1pm-2pm ET.
+
+Zoom links provided via Carpentries-Announce mailing list and Slack/Teams channels.
+
+Schedule: https://github.com/SmithsonianWorkshops/carpentries-brown-bag/wiki/Schedule
+
+Archive of past talks: https://github.com/SmithsonianWorkshops/carpentries-brown-bag
+
+## Become an Instructor
+
+Apply to join the SI Carpentries Instructor team! We are always looking for Smithsonian staff and fellows to be trained to join our team of instructors.
+
+No prior teaching experience is necessary, but alumni of the Carpentries workshops would make great candidates.
+
+You can apply at: https://forms.office.com/r/Qi9xEmhGpY
+
+*(This link also exists as a big blue button on the SI Carpentries website.)*
+
+## The End!
+
+Please keep in touch with us and let us know how you use your new skills!
+
+Are there any questions about the material we covered in this workshop or about Carpentries at the Smithsonian?
