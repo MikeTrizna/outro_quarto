@@ -2,6 +2,7 @@
 title: "Carpentry Workshop Wrap-Up"
 format: 
   revealjs:
+    scrollable: true
     theme: solarized
     progress: true
     center-title-slide: true
@@ -20,14 +21,15 @@ Big thanks to our instructors, helpers, and workshop organizer!
 
 **Week 1**
 
-* Using the GitHub website and Desktop to version control own data, and suggest changes to others.
-* Using OpenRefine to clean data in a scalable and reproducible way.
+-   Used the GitHub website and Desktop to version control own data, and suggest changes to others.
+-   Used OpenRefine to clean data in a scalable and reproducible way.
 
 ## Workshop Recap
 
 **Week 2**
 
-* R Recap
+-   Used R to read in data, and then filter and group it to gain insights.
+-   Used ggplot from R to iteratively create visualizations of data.
 
 ## Where to go from here?
 
@@ -35,36 +37,36 @@ Big thanks to our instructors, helpers, and workshop organizer!
 
 Practice ideas:
 
-- Your own work at the Smithsonian!
-- Weekly TidyTuesday Datasets: https://github.com/rfordatascience/tidytuesday
-- *Add some additional R Resources*
+-   Your own work at the Smithsonian!
+-   Weekly TidyTuesday Datasets: <https://github.com/rfordatascience/tidytuesday>
+-   R for Data Science online book: <https://r4ds.had.co.nz/>
 
 ## Smithsonian Carpentries Website
 
-https://datascience.si.edu/carpentries
+<https://datascience.si.edu/carpentries>
 
 ![](https://i.imgur.com/5bOXDap.jpeg){.border .border-thick}
 
 ## SI Carpentries Email Account
 
-For data and/or Carpentries-related questions: **Carpentries@si.edu**
+For data and/or Carpentries-related questions: [**Carpentries\@si.edu**](mailto:carpentries@si.edu)
 
 Feel free to email any of the instructors or helpers directly.
 
 ## CarpentriesAnnounce Mailing List
 
-For announcements of upcoming SI Carpentries workshops and events: https://si-listserv.si.edu/cgibin/wa?SUBED1=CARPENTRIESANNOUNCE&A=1
+For announcements of upcoming SI Carpentries workshops and events: <https://si-listserv.si.edu/cgibin/wa?SUBED1=CARPENTRIESANNOUNCE&A=1>
 
-Sign-up link is also available on the SI Carpentries Website.
+*Sign-up link is also available on the SI Carpentries Website.*
 
 ## #CarpentriesAlumni SlackChannel
 
-1. Go to https://smithsonian.slack.com/signup, and enter your SI email account (must be @si.edu).
-2. Log in, and add the #carpentries-alumni channel.
+1.  Go to <https://smithsonian.slack.com/signup>, and enter your SI email account (must be @si.edu).
+2.  Log in, and add the #carpentries-alumni channel.
 
 ## Carpentries Alumni Microsoft Team
 
-You can access the “Carpentries Alumni” Microsoft Team with this direct link. The “Carpentries Alumni” team is set as a public team, so you should be able to access it via the Teams button on the left sidebar.
+You can access the "Carpentries Alumni" Microsoft Team with [this direct link](https://teams.microsoft.com/l/team/19%3aacffb6ba096b4fb0ad93595df6e89220%40thread.tacv2/conversations?groupId=2e7c0abd-0ad8-4de0-bcf3-05af4b99aa38&tenantId=989b5e2a-14e4-4efe-93b7-8cdd5fc5d11c). The "Carpentries Alumni" team is set as a public team, so you should be able to access it via the Teams button on the left sidebar.
 
 ## SI Carpentries Community Chat
 
@@ -74,9 +76,9 @@ Last Wednesday of every month from 1pm-2pm ET.
 
 Zoom links provided via Carpentries-Announce mailing list and Slack/Teams channels.
 
-Schedule: https://github.com/SmithsonianWorkshops/carpentries-brown-bag/wiki/Schedule
+Schedule: <https://github.com/SmithsonianWorkshops/carpentries-brown-bag/wiki/Schedule>
 
-Archive of past talks: https://github.com/SmithsonianWorkshops/carpentries-brown-bag
+Archive of past talks: <https://github.com/SmithsonianWorkshops/carpentries-brown-bag>
 
 ## Become an Instructor
 
@@ -84,7 +86,7 @@ Apply to join the SI Carpentries Instructor team! We are always looking for Smit
 
 No prior teaching experience is necessary, but alumni of the Carpentries workshops would make great candidates.
 
-You can apply at: https://forms.office.com/r/Qi9xEmhGpY
+You can apply at: <https://forms.office.com/r/Qi9xEmhGpY>
 
 *(This link also exists as a big blue button on the SI Carpentries website.)*
 
